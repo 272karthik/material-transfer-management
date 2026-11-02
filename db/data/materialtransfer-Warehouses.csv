@@ -1,0 +1,5 @@
+
+ID,warehouseID,warehouseName,location,address,status
+aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,WH-001,Hyderabad Main Warehouse,Hyderabad,Hyderabad Telangana,Active
+bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,WH-002,Bangalore Warehouse,Bangalore,Bangalore Karnataka,Active
+cccccccc-cccc-cccc-cccc-cccccccccccc,WH-003,Chennai Warehouse,Chennai,Chennai Tamil Nadu,Active

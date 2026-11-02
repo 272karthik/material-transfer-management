@@ -1,0 +1,5 @@
+
+ID,warehouse_ID,binNumber,binType,capacity,currentOccupancy,status
+dddddddd-dddd-dddd-dddd-dddddddddddd,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,BIN-001,Standard,500,100,Active
+eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee,aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa,BIN-005,Standard,500,20,Active
+ffffffff-ffff-ffff-ffff-ffffffffffff,bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb,BIN-001,Standard,500,50,Active
